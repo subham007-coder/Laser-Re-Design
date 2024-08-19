@@ -1,0 +1,275 @@
+* {
+  padding: 0;
+  margin: 0;
+  /* overflow-x: hidden; */
+}
+
+html, body{
+  width: 100%;
+  height: 100%;
+  box-sizing: border-box;
+  /* font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace; */
+}
+
+.roundedd {
+  border-radius: 50%;
+}
+
+.page2 .string {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.carousel {
+  margin: 20px auto;
+  max-width: 90%;
+  background-color: white;
+}
+
+nav a:hover{
+  color: red;
+}
+
+.carousel-cell {
+  width: 25%; /* Adjust as necessary */
+  padding: 20px;
+  box-sizing: border-box;
+  text-align: center;
+}
+
+.product {
+  background-color: #314bdeb9; /* Red background for the circle */
+  border-radius: 50%; /* Makes the container circular */
+  width: 300px;
+  height: 300px;
+  display: flex;
+  padding: 10px;
+  justify-content: center;
+  align-items: center;
+  margin: 0 auto;
+  position: relative;
+  overflow: hidden; /* Ensures content stays within the circle */
+  flex-direction: column; /* Align items in column */
+}
+
+.product img {
+  max-width: 70%;
+  max-height: 70%;
+  object-fit: contain;
+  margin-bottom: 20px; /* Add space between image and title */
+}
+
+.product-title {
+  color: white;
+  font-size: 14px;
+  font-weight: bold;
+  text-align: center;
+  padding: 10px 10px;
+  background-color: #314bdeb9;
+  border-radius: 5px;
+  width: 100%;
+  position: relative; /* Change from absolute to relative */
+  margin-top: -20px; /* Slightly overlap the bottom of the circle */
+  z-index: 10;
+}
+
+.my-w {
+  width: 40vw;
+}
+
+.my-h {
+  height: 40vw;
+}
+
+
+/* AWARDS card */
+/* From Uiverse.io by eslam-hany */ 
+.book {
+  position: relative;
+  border-radius: 10px;
+  width: 220px;
+  height: 303px;
+  /* background-color: whitesmoke; */
+  /* -webkit-box-shadow: 1px 1px 12px #000;
+  box-shadow: 1px 1px 12px #000; */
+  -webkit-transform: preserve-3d;
+  -ms-transform: preserve-3d;
+  transform: preserve-3d;
+  -webkit-perspective: 2000px;
+  perspective: 2000px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  /* color: #000; */
+}
+
+.book img{
+  width: 220px;
+  height: 300px;
+  padding: 10px;
+}
+
+.cover {
+  top: 0;
+  position: absolute;
+  background-color: #111827;
+  color: #fff;
+  width: 100%;
+  height: 100%;
+  border-radius: 10px;
+  cursor: pointer;
+  -webkit-transition: all 0.5s;
+  transition: all 0.5s;
+  -webkit-transform-origin: 0;
+  -ms-transform-origin: 0;
+  transform-origin: 0;
+  /* -webkit-box-shadow: 1px 1px 12px #000; */
+  /* box-shadow: 1px 1px 12px #343434; */
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+}
+
+.book:hover .cover {
+  -webkit-transition: all 0.5s;
+  transition: all 0.5s;
+  -webkit-transform: rotatey(-80deg);
+  -ms-transform: rotatey(-80deg);
+  transform: rotatey(-86deg);
+}
+
+/* about-bg */
+
+.about-bg{
+  background-color: #0c1324;
+}
+
+.about-text-box{
+  background-color: #131B2E;
+}
+
+/* about image banner */
+#banner{
+  width: 70%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#bimg{
+  width: 70%;
+  height: 60vh;
+  border-radius: 20px;
+}
+
+#bimg img{
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+
+/* india map */
+.map-container {
+  position: relative;
+  width: 100%;
+  max-width: 700px;
+  height: auto;
+  /* margin: 0 auto; Center the map horizontally */
+}
+
+/* intarnational map */
+.world-map {
+  position: relative;
+}
+
+.map img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+.marker {
+  position: absolute;
+  width: 10px; /* Set marker size relative to the map's width */
+  height: 10px; /* Set marker size relative to the map's height */
+  background: url('images/location-point.png') no-repeat center center;
+  background-size: contain;
+  cursor: pointer;
+   transform: translate(-50%, -50%); /* Center marker at its coordinates */
+}
+
+.marker::after {
+  content: attr(data-location);
+  position: absolute;
+  bottom: 100%;
+  left: 50%;
+  transform: translateX(-50%);
+  background-color: #333;
+  color: #fff;
+  padding: 5px;
+  border-radius: 5px;
+  font-size: 12px;
+  white-space: nowrap;
+  opacity: 0;
+  visibility: hidden;
+  transition: opacity 0.2s ease-in-out;
+}
+
+.marker:hover::after {
+  opacity: 1;
+  visibility: visible;
+}
+
+
+
+
+/* responsive */
+
+@media only screen and (max-width: 767px) {
+  .about-section {
+    flex-direction: column;
+    align-items: center;
+  }
+  .page2{
+    display: none;
+  }
+  .text-box{
+    font-size: 2vw;
+  }
+  .img-text{
+    display: flex;
+    flex-direction: column-reverse;
+  }
+  .scnd-info{
+    flex-direction: column-reverse;
+  }
+  .fst-info{
+    flex-direction: column;
+  }
+}
+
+@media only screen and (max-width: 767px) {
+  .about-bg{
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+  }
+  .map-container{
+    flex-direction: column;
+  }
+}
