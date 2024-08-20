@@ -1,0 +1,1245 @@
+@media only screen and (min-width: 1400px){
+.home-about-section{background-size:100%; background-position: bottom;}
+#owl-demoThree .image-wrap{     margin-left: 195px;}
+#owl-demoThree .content-wrap{        right: 173px;} 
+.home-about-section:before{width: 390px;
+    height: 240px;}
+.home-about-section:after { width: 435px;
+    height: 280px;}
+
+}
+
+@media only screen and (max-width: 1360px){
+    .domestic-block .map-block{
+        width: 499px;
+    }
+    .map-block .state.west-bengal{right: 145px;
+    top: 177px;}
+    .map-block .state.odisha{    right: 216px;
+    top: 225px;}
+    .map-block .state.bihar {
+    right: 182px;
+    top: 142px;}
+    .map-block .state.assam {
+    right: 86px;
+    top: 130px;}
+    .map-block .tripura {
+    right: 69px;
+    top: 168px;}
+    .map-block .jharkhand {
+    right: 195px;
+    top: 166px;}
+    .map-block .arunachal {
+    right: 26px;
+    top: 99px;}
+    .map-block .andhra{
+            right: 243px;
+    top: 242px;
+    }
+    .map-block .chattisgarh {
+    right: 232px;
+    top: 184px;}
+    .map-block .delhi {
+    right: 324px;
+    top: 97px;}
+    .map-block .gujarat {
+    left: 40px;
+    top: 201px;}
+    .map-block .haryana {
+    right: 339px;
+    top: 100px;}
+    .map-block .himachal {
+    right: 324px;
+    top: 49px;}
+    .map-block .jammu {
+    left: 115px;}
+    .map-block .karnataka {
+    bottom: 99px;
+    left: 115px;}
+    .map-block .kerala {
+    bottom: 45px;
+    left: 140px;}
+    .map-block .madhya {
+    top: 171px;
+    left: 171px;}
+    .map-block .maharashtra {
+    top: 246px;
+    left: 95px;}
+    .map-block .manipur {
+    top: 153px;
+    right: 36px;}
+    .map-block .punjab {
+    top: 64px;
+    left: 114px;}
+    .map-block .rajasthan {
+    top: 126px;
+    left: 84px;}
+    .map-block .tamil {
+    bottom: 53px;
+    left: 171px;}
+    .map-block .telangana {
+    right: 297px;
+    top: 256px;}
+    .map-block .up {
+    right: 257px;
+    top: 118px;}
+    .map-block .uttarakhand {
+    right: 290px;
+    top: 77px;}
+
+
+}
+
+
+@media only screen and (max-width: 1199px) { 
+ .navbar-brand img {
+       width: 130px;
+}
+.navbar.navbar-light .navbar-nav li {
+    font-size: 13px;
+}
+.navbar.navbar-light .navbar-nav li a.nav-link {
+    padding: 7px;
+}
+.navbar.navbar-light .navbar-nav li.dropdown .dropdown-menu li {
+    font-size: 13px;
+}
+h1{font-size:48px;}
+.title {font-size: 42px;}
+.welcome-section{}
+.welcome-section .image-wrap img{    height: 55px;}
+.abt-image-cont .abt-image-box{width: 280px;
+    height: 280px;}
+.abt-image-cont .abt-image-box img{height: 280px;}
+#owl-demoThree .image-wrap{    margin-left: 100px;}
+#owl-demoThree .content-wrap{    right: 100px;}
+.home-about-section{  background-position: 0 90%;}
+.home-product-section{  }
+.home-product-slider .pro-box .image-wrap{    width: 200px;
+    height: 200px;}
+.home-product-slider .pro-box .image-wrap img{    height: 150px;}
+.home-product-slider .pro-box .heading{font-size: 14px;
+    line-height: 14px;}
+.home-client-slider .pro-box .image-wrap{    width: 150px;
+    height: 150px;}
+.home-client-slider .pro-box .image-wrap img {
+    height: 115px;
+}
+.home-award-section{}
+.home-award-section:before{    top: 130px;}
+.home-award-slider .pro-box .image-wrap,
+.home-award-slider .pro-box .image-wrap img{    height: 180px;    margin: 0 auto;
+    display: block;}
+.enquiry-section .btn{font-size: 16px;}
+
+.domestic-block .domestic-map {
+    
+}
+.domestic-block{
+    width: 100%;
+}
+.map-block .state img {
+    height: 16px;
+}
+.domestic-block .map-block .state-name{    right: 50px;
+    top: 50px;}
+.domestic-block .map-block{}
+.mob-map-block{display: block;    display: flex;
+    width: 100%;display: none;}
+.mob-map-block ul{    display: flex;
+    flex-flow: wrap;}
+.domestic-block .state-list li{
+    font-size: 20px;
+    color: #fff;
+    margin-bottom: 5px;
+    border: 1px solid #fff;
+   list-style: none;
+    padding: 5px;
+    width: 50%;
+}
+
+
+.mob-inter-map-block ul{    display: flex;
+    flex-flow: wrap;}
+.mob-inter-map-block .country-list li{
+    font-size: 20px;
+    color: #fff;
+    margin-bottom: 5px;
+    border: 1px solid #fff;
+   list-style: none;
+    padding: 5px;
+    width: 50%;
+}
+
+
+
+h3 {
+    font-size: 18px;
+    line-height: 24px;
+}
+.about-section p {
+    font-size: 14px;
+    line-height: 20px;
+}
+.journey-cont ul li.box-one .hidden-box{left: -66px;}
+.journey-cont ul li .hidden-box{font-size: 12px;
+    line-height: 15px;width: 200px;
+    height: 200px;}
+.journey-cont ul li.box-seven .hidden-box {
+    right: -60px;
+}
+.journey-cont ul li.box-seven .hidden-box:after{bottom: -18px;
+    left: 130px;    transform: rotate(0deg);}
+
+#owl-demoTwo .image-wrap img {
+    height: 208px;
+}
+h4 {
+    font-size: 18px;
+}
+.certificate-section{    padding: 115px 0 110px 0;}
+#owl-demoTwo .item h4{    font-size: 12px;
+    line-height: 14px;    height: 45px;}
+#owl-demoTwo .image-wrap{    height: 220px;}
+#owl-demoTwo .image-wrap img{    height: 204px;}
+
+.facility-section:before{    width: 50px;
+    height: 122px;}
+.facility-section:after{    width: 60px;
+    height: 133px;}
+
+.client-logo img{width: 135px;
+    height: 135px;}
+
+.inner_banner.epc-banner .banner-caption {
+    width: 35%;
+}
+.epc-award-section:before,
+.epc-award-section:after{width: 170px;}
+.milestone-cont h5{font-size: 18px;}
+
+.pro-wrap .btn{    margin: 0 28%;}
+.pro-wrap .content-wrap {
+    height: 190px;
+}
+#thumbnails .thumbelina li a{    width: 120px;
+    height: 120px;}
+.thumbelina li img,
+.thumbelina li img, 
+.thumbelina li img:hover{    height: 120px;}
+#thumbnails {height: 126px;}
+#product-image a{    width: 370px;
+    height: 370px;}
+#product-image{    height: 380px;}
+
+.md-image img{    width: 320px;
+    height: 320px;}
+.pioneer-inno-row .box .number{
+        font-size: 28px;
+        line-height: 28px;
+ }
+.pioneer-inno-row .heading{
+        font-size: 24px;
+        padding: 3px 30px;
+}
+.pioneer-inno-row .box p{
+        font-size: 14px;
+    line-height: 16px;
+}
+.csr-gal-section .gallry-image-slider .box{
+    min-height: 422px;
+}
+
+
+
+.domestic-block{
+    position: relative;
+    width: 336px;
+    margin: 0 auto;    border-right: 0;}
+.presence-section h4{    position: absolute;
+       right: 65px;
+    top: 20px;
+    padding: 5px 15px;
+    font-size: 13px;
+    line-height: 15px;}
+.domestic-block .map-block{
+    width: 336px;
+    height: 295px;
+    margin: 0 auto;
+}
+.domestic-block .domestic-map {
+    width: 336px;
+    height: 295px;
+}
+.domestic-block .map-block .state-name label {
+    padding: 4px 5px;
+    font-size: 11px;
+    line-height: 13px;
+    z-index: 9;
+}
+
+
+.map-block .jammu {
+    left: 80px;
+}
+.map-block .himachal {
+    right: 218px;
+    top: 28px;
+}
+.map-block .punjab {
+    top: 38px;
+    left: 78px;
+}
+.map-block .uttarakhand {
+    right: 192px;
+    top: 46px;
+}
+.map-block .delhi {
+    right: 219px;
+    top: 60px;
+}
+.map-block .gujarat {
+    left: 30px;
+    top: 126px;
+}
+.map-block .haryana {
+    left: 86px;
+    top: 60px;
+    right: auto;
+}
+.map-block .karnataka {
+    bottom: 80px;
+    left: 80px;
+}
+.map-block .kerala {
+    bottom: 33px;
+    left: 92px;
+}
+.map-block .madhya {
+    top: 109px;
+    left: 106px;
+}
+.map-block .maharashtra {
+    top: 152px;
+    left: 78px;
+}
+.map-block .manipur {
+    top: 97px;
+    right: 25px;
+}
+.map-block .rajasthan {
+    top: 76px;
+    left: 56px;
+}
+.map-block .tamil {
+    bottom: 50px;
+    left: 122px;
+}
+.map-block .telangana {
+    right: 199px;
+    top: 169px;
+}
+.map-block .state.west-bengal {
+    right: 96px;
+    top: 115px;
+}
+.map-block .state.odisha {
+    right: 136px;
+    top: 145px;
+}
+.map-block .state.bihar {
+    right: 125px;
+    top: 92px;
+}
+.map-block .state.assam {
+    right: 60px;
+    top: 83px;
+}
+.map-block .tripura {
+    right: 45px;
+    top: 111px;
+}
+.map-block .jharkhand {
+    right: 133px;
+    top: 105px;
+}
+.map-block .arunachal {
+    right: 19px;
+    top: 60px;
+}
+.map-block .andhra {
+    right: 163px;
+    top: 169px;
+}
+.map-block .chattisgarh {
+    right: 167px;
+    top: 131px;
+}
+.map-block .up {
+    right: 176px;
+    top: 81px;
+}
+
+.mission-section,
+.vision-section{text-align: center;}
+.scheme-bootom-cont{padding: 40px 0;}
+
+
+.internatiinal-block .map-block{
+    width: 336px;
+    height: 179px;
+    margin: 0 auto;      padding-top: 90px;
+}
+.internatiinal-block .international-map {
+    width: 336px;
+    height: 179px;
+}
+.internatiinal-block .map-block .country-name{    right: 0;
+    left: 0;
+        top: 14px;
+    margin: auto;}
+.internatiinal-block .map-block .country-name label{
+    padding: 4px 5px;
+    font-size: 11px;
+    line-height: 13px;
+    z-index: 9;
+}
+.map-block .country.togo {
+        right: 169px;
+    top: 69px;
+}
+.map-block .country.ethiopia {
+    right: 122px;
+    top: 60px;
+}
+.map-block .country.centralafrica {
+    right: 142px;
+    top: 80px;
+}
+.map-block .country.bhutan {
+    right: 76px;
+    top: 50px;
+}
+.map-block .country.mauritius {
+    right: 107px;
+    bottom: 50px;
+}
+.map-block .country.bangladesh {
+    right: 72px;
+    top: 56px;
+}
+.map-block .country.dubai {
+    right: 104px;
+    top: 54px;
+}
+.map-block .country.kenya {
+    right: 125px;
+    top: 84px;
+}
+.map-block .country.rwanda {
+   right: 135px;
+    top: 85px;
+}
+.map-block .country.senegal {
+    left: 140px;
+    top: 65px;
+}
+.map-block .country.ivory {
+    right: 173px;
+    top: 74px;
+}
+.map-block .country.ghana {
+    right: 154px;
+    top: 71px;
+}
+.map-block .country.tanzania {
+    right: 116px;
+    top: 78px;
+}
+.map-block .country.mali {
+    left: 147px;
+    top: 55px;
+}
+.map-block .country.mozambique {
+    right: 130px;
+    top: 99px;
+}
+.map-block .country.nigeria {
+    right: 147px;
+    top: 62px;
+}
+.map-block .country.gambia {
+    right: 153px;
+    top: 84px;
+}
+.map-block .country.cameroon {
+    right: 157px;
+    top: 77px;
+}
+.map-block .country.gbissau {
+    left: 140px;
+    top: 87px;
+}
+.map-block .country.gconakry {
+    right: 110px;
+    top: 72px;
+}
+.map-block .country.nicaragua {
+    left: 66px;
+    top: 65px;
+}
+
+.internatiinal-block .map-block .country img{
+    height: 16px;
+}
+.internatiinal-block{border-left: 1px solid #fff;}
+
+}
+
+@media only screen and (max-width: 1024px) { 
+
+
+.abt-image-cont .abt-image-box{
+        width: 200px;
+    height: 200px;
+    left: 0;
+}
+.abt-image-cont .abt-image-box img{
+      height: 200px;
+}
+.abt-image-cont .abt-image-box.right-image{
+    right: 0;
+}
+#owl-demoThree .image-wrap{    width: 400px;
+    height: 400px;        margin-left: 175px;}
+#owl-demoThree .image-wrap img{height: 400px;}
+#owl-demoThree .content-wrap{    width: 300px;
+    height: 300px;
+    padding: 50px 58px;    right: 140px;}
+#owl-demoThree .content-wrap h3{    font-size: 17px;
+    line-height: 22px;}
+#owl-demoThree .content-wrap p {
+    font-size: 12px;
+    line-height: 15px;
+    max-height: 106px;
+    overflow: hidden;
+}
+#owl-demoThree .content-wrap .btn{padding: 5px 15px;    font-size: 12px;
+    line-height: 12px;}
+.home-client-slider .pro-box .image-wrap {
+    width: 100px;
+    height: 100px;
+}
+.home-product-cont,
+.home-client-cont,
+.home-award-cont,
+.welcome-cont{    padding: 0 50px;}
+.home-client-section:before,
+.home-client-section:after{    width: 320px;}
+
+.vision-section{bottom: 60px;}
+.mission-vision-sec {
+    padding-bottom: 155px;
+}
+
+.domestic-block{
+    position: relative;
+    width: 336px;
+    margin: 0 auto;    border-right: 0;}
+.presence-section h4{    position: absolute;
+   
+    padding: 5px 15px;
+    font-size: 13px;
+    line-height: 15px;}
+.domestic-block .map-block{
+    width: 336px;
+    height: 295px;
+    margin: 0 auto;
+}
+.domestic-block .domestic-map {
+    width: 336px;
+    height: 295px;
+}
+.domestic-block .map-block .state-name label {
+    padding: 4px 5px;
+    font-size: 11px;
+    line-height: 13px;
+    z-index: 9;
+}
+
+.domestic-block .state-list li,
+.mob-inter-map-block .country-list li{
+        font-size: 16px;
+}
+.home-client-slider .pro-box .image-wrap {
+    width: 80px;
+    height: 80px;
+}
+.home-client-slider .pro-box .image-wrap img {
+    height: 50px;
+}
+.enquiry-section:before,
+.enquiry-section:after{
+    width: 150px;
+    height: 150px;
+}
+.enquiry-section .btn{    font-size: 14px;padding: 15px 25px;}
+.inner_banner,
+.inner_banner img{    height: 350px;}
+.inner_banner h1 {
+    font-size: 40px;
+}
+.inner-container h2{font-size: 42px;}
+.inner_banner.sustainability-banner .bannerText h1{ font-size: 40px;}
+.milestone-cont h5 {
+    font-size: 16px;
+}
+footer {
+    padding: 40px 0 0 0;
+}
+footer h4{    font-size: 16px;
+    line-height: 18px;}
+.inner_banner.facility-banner .banner-caption{
+        max-width: 205px;
+}
+.inner_banner.facility-banner h1{
+        font-size: 30px;
+    line-height: 30px;
+}
+.inner_banner.facility-banner h1 span{
+        font-size: 40px;
+    line-height: 40px;
+    bottom: -8px;
+    left: 35px;
+}
+.facility-gallery-section .gallery-left .image-left-area .image-wrap img, 
+.facility-gallery-section .gallery-right .image-left-area .image-wrap img{
+        height: 151px;
+}
+.facility-gallery-section .gallery-left .image-right-area .image-wrap img, 
+.facility-gallery-section .gallery-right .image-right-area .image-wrap img{
+        height: 326px;
+}
+.video-content {
+    padding: 30px 0 30px 0;
+}
+.video-content .title {
+    font-size: 24px;
+    line-height: 28px;
+}
+.contact-form .form-control{
+    padding: 15px 20px;
+}
+
+
+
+ }
+
+
+@media only screen and (max-width: 991px) { 
+#navbarSupportedContent{display: none;}
+.navbar-nav .show.dropdown-toggle:after{content: "";    transform: rotate(180deg);}
+.mob-menu{display: block;}
+.mob-srch{    display: block !important;}
+.desktop-srch{display: none;}
+
+.navbar.navbar-light .navbar-nav li.dropdown .dropdown-menu li{    border: 0;}
+.navbar.navbar-light .navbar-nav li.dropdown .dropdown-menu li a,
+.navbar.navbar-light .navbar-nav li.dropdown .dropdown-menu .dropdown-item{    color: #000;}
+
+#myNav .navbar-nav .submenu.dropdown-menu{    display: block;    margin-bottom: 0;
+    padding-bottom: 0;}
+#myNav .navbar-nav .submenu.dropdown-menu li a{
+font-size: 13px;    padding: 0;
+}
+
+.abt-image-cont .abt-image-box{
+        width: 150px;
+    height: 150px;
+}
+.abt-image-cont .abt-image-box img {
+    height: 150px;
+}
+#owl-demoThree .image-wrap {   
+      margin-left: 80px;
+    width: 350px;
+    height: 350px;
+}
+#owl-demoThree .image-wrap img {
+    height: 350px;
+}
+#owl-demoThree .content-wrap{     right: 80px;    width: 250px;
+    height: 250px;    top: 50px;padding: 50px 40px;}
+
+
+
+.about-cont {
+    padding: 30px 15px;
+}
+.about-slider{    margin: 0 auto;}
+.journey-cont ul li.box-six .hidden-box{    right: -150px;}
+.vision-section{    position: inherit;
+    bottom: -80px;}
+.vision-cont {
+    padding-right: 50px;
+}
+
+.inner_banner,
+.inner_banner img{    height: 280px;}
+.client-logo img {
+    width: 100px;
+    height: 100px;    padding: 12px;
+}
+
+.inner_banner.epc-banner .bannerText h1 span{font-size: 14px;
+    line-height: 13px;}
+.inner_banner.epc-banner .bannerText .subtitle {
+    font-size: 15px;
+    line-height: 16px;
+}
+.growth-box .circle img {
+    height: 40px;
+}
+.growth-box .circle p {
+    font-size: 12px;
+    line-height: 16px;
+}
+.growth-box .circle{    width: 200px;
+    height: 200px;}
+.growth-box .content-wrap{    max-height: 80px;
+    overflow: hidden;}
+.growth-box :after{width: 15px;}
+.epc-award-cont .box p {
+    font-size: 14px;
+    line-height: 18px;
+}
+#thumbnails .thumbelina li a {
+    width: 80px;
+    height: 80px;
+}
+#thumbnails {
+    height: 88px;
+}
+#product-image {
+    height: 310px;
+}
+#product-image a {
+    width: 300px;
+    height: 300px;
+}
+#product-image a img {
+    height: 250px;
+    margin-left: -62px;
+}
+.related-product-slider .item .image-wrap{    width: 150px;
+    height: 150px;}
+#owl-demoTen .owl-nav button,
+#owl-demoFive .owl-nav button,
+#owl-demoThirteen .owl-nav button{font-size: 11px;
+    height: 55px;}
+ #owl-demoTen .owl-nav,
+#owl-demoFive .owl-nav,
+#owl-demoThirteen .owl-nav{    top: 15%;
+    transform: translateY(-15%);}
+
+.home-about-section:before{    width: 255px;
+    height: 172px;}
+.home-about-section:after{width: 280px;
+    height: 190px;}
+
+#owl-demoTwo .image-wrap {
+    height: 286px;
+}
+#owl-demoTwo .image-wrap img {
+    height: 276px;
+}
+
+.pioneer-inno-row .box .number {
+    font-size: 20px;
+    line-height: 23px;
+}
+.pioneer-inno-row .heading {
+    font-size: 18px;
+    line-height: 18px;
+}
+.pioneer-inno-row .box p {
+    font-size: 12px;
+    line-height: 14px;
+    padding: 0 16px;
+}
+.pioneer-inno-row .box {
+    flex: 0 0 auto;
+    width: 50%;
+    padding: 0 10px;
+}
+.mob-inter-map-block .country-list li,
+.domestic-block .state-list li{
+        font-size: 16px;
+}
+.internatiinal-block {
+    padding: 25px 0 0 0;
+}
+.presence-section h4{    left: 0;
+    right: 0;
+    margin: auto;
+    position: inherit;
+    top: auto;}
+.csr-gal-section .gallry-image-slider {
+        padding: 0 50px;
+}
+.csr-gal-section .gallry-image-slider .box .image-wrap img {
+    height: 150px;
+}
+.csr-gal-section .gallry-image-slider .box {
+    min-height: 375px;
+}
+.pro-desc .title{    font-size: 24px;
+    line-height: 30px;}
+#product-image a {
+    width: 260px;
+    height: 260px;
+}
+#product-image a img{
+    height: 260px; 
+}
+
+.journey-section {
+    padding: 50px 0 110px 0;
+}
+
+.govt-client{display: none;}
+.govt-client-mob{display: block;    padding-bottom: 15px;}
+
+.domestic-block .map-block{
+      width: 336px;
+    height: 295px;
+    margin: 0 auto;
+}
+   
+.internatiinal-block{border-left: 0;}
+.internatiinal-block .map-block{    padding-top: 0;}
+
+.domestic-block{    padding-bottom: 30px;}
+
+ }
+
+ @media only screen and (max-width: 767px) {
+.navbar-brand img {
+    width: 150px;
+}
+#myNav .navbar-nav .dropdown-menu{    margin-top: 0;
+    padding-top: 0;}
+.home-about-section h1,
+h1{ font-size: 30px;}
+.title {
+    font-size: 30px;
+}
+.mission-section .title{    line-height: 40px;}
+.home-client-section .title{font-size: 30px;
+    line-height: 35px;}
+.welcome-section .image-wrap{height: auto;
+    width: auto;}
+.welcome-section .image-wrap img{height: 120px;
+    width: 120px;  display: block;
+    margin: 0 auto;    border-radius: 50%;}
+.home-about-section h1, h1 {
+    font-size: 24px;    line-height: 34px;
+}
+.home-about-section:after {
+    width: 295px;
+    height: 205px;
+}
+.home-about-section:before {
+    width: 280px;
+    height: 189px;
+}
+.abt-image-cont .abt-image-box {
+    width: 100px;
+    height: 100px;
+}
+.abt-image-cont .abt-image-box img {
+    height: 100px;
+}
+.enquiry-section:before,
+.enquiry-section:after{    width: 100px;
+    height: 100px;}
+
+#owl-demoFive .owl-nav{top: 0;
+    transform: translateY(-0);}
+#owl-demoThree .image-wrap {
+        margin: 0 auto;
+    width: 300px;
+    height: 300px;
+}
+#owl-demoThree .content-wrap {
+    right: auto;
+    position: inherit;
+    margin: 20px auto;
+    top: auto;    text-align: center;justify-content: center;
+}
+#owl-demoThree .content-wrap .btn{float: none;}
+.about-slider:before,
+.journey-cont{display: none;}
+.journey-cont-mob{display: block; position: relative;    padding-bottom: 108px;}
+.journey-cont-mob .box-content{background: #e8222e;
+        color: #fff;
+       font-size: 16px;
+    line-height: 22px;
+    padding: 25px 30px;
+    border-radius: 50%;
+    width: 260px;
+    height: 260px;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;text-align: center;}
+.journey-cont-mob .box img{    height: 100px;
+    margin-bottom: 20px;    object-fit: contain;}
+
+.mission-section{position: inherit;    margin-bottom: 0; top: 0;    border-bottom: 1px solid #ccc;}
+.about-epc-section{background-image: url(../images/home-epc-left-bg.png);
+  background-position: left bottom;
+    background-repeat: no-repeat;
+    background-size: 35%;
+       padding: 0 0 20px 0;}
+.about-epc-section .title{    margin-bottom: 10px; line-height: 40px;}
+.vision-section {
+    position: inherit;
+    bottom: auto;
+}
+.mission-vision-sec {
+        padding: 20px 0;
+}
+.journey-section {
+        padding: 25px 0 0 0;
+}
+.vision-cont {
+    padding-right: 1.5rem;
+}
+.mission-cont {
+    padding-right: 1.5rem;
+}
+.vision-cont ul{    padding-left: 1.5rem;}
+footer {
+    padding: 40px 0 0 0;
+}
+.domestic-block{padding: 0;border-bottom: 1px solid #fff;
+    padding-bottom: 50px;}
+.internatiinal-block {
+    padding: 50px 0 0 0;
+}
+.domestic-block:after{display: none;}
+
+.inner_banner,
+.inner_banner img{    height: 220px;    object-position: left;}
+
+.inner_banner.product-banner{    height: auto; }
+
+.inner_banner h1,
+.inner_banner.sustainability-banner .bannerText h1 {
+    font-size: 30px;    line-height: 30px;
+}
+.inner-container h2 {
+    font-size: 28px;
+}
+
+.facility-page .sub-heading{    font-size: 14px;
+    line-height: 14px;}
+.equioment-wrap .box{    padding: 30px;}
+.inner-container.facility-page{padding-bottom: 140px;}
+.typical-wrap .box{    padding: 30px;}
+.typical-wrap .box .heading{font-size: 16px;    line-height: 20px;    min-height: inherit;}
+
+.milestone-cont .milestone-wrap{     border-right: 0;   border-bottom: 1px solid #000;}
+.epc-award-cont .award-wrap {border-right: 0;
+    border-bottom: 2px dashed rgb(255 255 255 / 76%);
+}
+.epc-award-cont .award-wrap:last-child{ border-bottom: 0; }
+.epc-award-section:before,
+.epc-award-section:after{    top: auto;bottom: 0;}
+
+.pro-wrap .content-wrap {
+    height: auto;
+}
+.pro-wrap .btn{ position: inherit; margin: 0 auto; }
+
+#product-image a{    margin: 0 auto;}
+
+#thumbnails{    text-align: center;    margin-top: 10px;}
+.welcome-section{}
+.home-about-section{padding: 30px 0;}
+.home-product-section{padding: 30px 0 50px 0;}
+.home-client-section{padding: 30px 0 50px 0;}
+.home-award-section{padding: 30px 0 80px 0;}
+.home-award-section:after,
+.home-award-section:before{width: 230px; height: 35px;}
+.home-award-section:before {
+    top: 99px;
+}
+.enquiry-section{ padding: 35px 0; }
+.enquiry-section .btn{    padding: 15px 35px;    font-size: 15px;}
+.home-client-section:before, .home-client-section:after {
+    width: 224px;
+    height: 42px;
+}
+.plan-wraper h3.heading{    min-height: inherit;}
+
+#project thead th{    font-size: 15px;}
+#project td, #project th{    font-size: 13px;
+    line-height: 18px;    padding: 10px 20px;}
+
+#owl-demoTwo .image-wrap {
+    height: 238px;
+}
+#owl-demoTwo .image-wrap img {
+    height: 234px;
+}
+.certificate-slider{padding: 0 60px;}
+.facility-gallery-section .gallery-left .image-left-area .image-wrap img, 
+.facility-gallery-section .gallery-right .image-left-area .image-wrap img,
+.facility-gallery-section .gallery-left .image-right-area .image-wrap img, 
+.facility-gallery-section .gallery-right .image-right-area .image-wrap img{
+        height: 250px;
+}
+.csr-gal-section .gallry-image-slider .box .image-wrap{display: block;}
+.csr-gal-section .gallry-image-slider .box .image-wrap img {
+    height: 230px;
+}
+.video-content {
+    padding: 0px 0 30px 0;
+}
+.gallry-image-slider .box .image-wrap{
+        justify-content: center;
+}
+.gallry-image-slider{padding: 0 50px;}
+
+#carouselExampleControls .carousel-control-prev .carousel-control-prev-icon, #carouselExampleControls .carousel-control-next .carousel-control-next-icon {
+       width: 15px;
+}
+#carouselExampleControls .carousel-control-prev, #carouselExampleControls .carousel-control-next{    height: 50px;}
+.pro-desc ul {
+    padding-left: 0;
+}
+.pro-desc .title{    font-size: 24px;
+    line-height: 30px;}
+
+.about-slider{    padding: 20px 0 0 0;}
+.about-cont{ padding-bottom: 0;}
+.about-cont p:last-child{margin-bottom: 0;}
+
+.owl-carousel#owl-demoEleven .owl-dots{position: relative;}
+#product-image {
+    height: 270px;
+}
+.pro-desc ul li p {
+    padding-left: 0;
+}
+.pro-details .btn-area{justify-content: center;    padding: 0;}
+.related-pro-title h3{    margin-bottom: 0;}
+.pro-details .btn-area{margin-top: 15px;}
+
+.about-section{    padding: 0px 0 30px 0;}
+#owl-demoFourteen .owl-nav{    position: absolute;
+    left: 0;
+    right: 0;
+    margin: auto;    bottom: -105px;}
+#owl-demoFourteen .owl-nav button{ margin: 15px;}
+#owl-demoFourteen .owl-nav button i{ font-size: 18px; }
+#owl-demoFourteen .owl-nav button:hover{    background: transparent;color: #5e5e5e;}
+
+.rope-image{ position: absolute; top: auto; left: 0; bottom: 0; width: 100%;}
+
+.client-logo img {
+    width: 120px;
+    height: 120px;padding: 15px;
+}
+.client-wrapper {
+    padding-bottom: 135px;
+}
+.inner-container{
+    padding-top: 35px;
+    padding-bottom: 35px;
+}
+
+
+.domestic-block{position: relative;    width: 336px;
+    margin: 0 auto;}
+.domestic-block .domestic-map {
+    width: 336px;
+    height: 295px;
+}
+.presence-section h4{    position: absolute;
+     padding: 5px 15px;
+    font-size: 13px;
+    line-height: 15px;    left: 0;
+    right: 0;
+    margin: auto;
+    position: inherit;
+    top: auto;}
+.domestic-block .map-block .state-name label{    padding: 4px 5px;
+    font-size: 11px;
+    line-height: 13px;z-index: 9;}
+
+
+
+
+ }
+
+ @media only screen and (max-width: 575px) { 
+
+    .about-slider{    width: 360px;}
+ .home-about-section:after {
+    width: 210px;
+    height: 134px;
+}
+.home-about-section:before {
+    width: 186px;
+    height: 125px;
+}
+.home-about-section{ }
+.home-product-section{    background-size: 60px;   }
+.home-client-section{ }
+.home-client-cont {
+    margin-top: 0;
+}
+#owl-demoFive .owl-nav button{    font-size: 11px;
+    padding: 10px 5px !important;
+    width: 15px;    height: 50px;}
+#owl-demoFive .owl-nav{top: 16px;}
+.home-award-section {
+  
+}
+.enquiry-section .btn{     font-size: 12px;
+    line-height: 12px;
+    padding: 12px 20px;}
+#owl-demoTwo .image-wrap,
+#owl-demoTwo .image-wrap img,
+#owl-demoTwo .item h4 {
+    height: auto;
+}
+.inner_banner.sustainability-banner img{    object-position: right;}
+.scheme-slider .slider-img{    height: 220px;
+    object-fit: cover;}
+.client-logo img {
+    width: 105px;
+    height: 105px;
+}
+.inner_banner.client-banner h1{
+        font-size: 22px;
+    line-height: 24px;
+}
+
+ 
+ }
+ @media only screen and (max-width: 480px) { 
+    .togglesearch{    width: 330px;}
+.welcome-cont {
+    padding: 0;
+}
+
+.home-about-section:after {
+       width: 168px;
+    height: 140px;
+}
+.home-about-section:before {
+    width: 160px;
+    height: 98px;
+}
+#owl-demoThree .image-wrap {
+    width: 300px;
+    height: 300px;
+}
+#owl-demoThree .content-wrap {
+    width: 250px;
+    height: 250px;    padding: 45px 50px;
+}
+#owl-demoThree .content-wrap h3 {
+    font-size: 15px;
+    line-height: 18px;
+}
+#owl-demoThree .content-wrap p{    max-height: 76px;}
+.home-about-section {
+    background-position: 0 82%;
+}
+.home-client-section:before, .home-client-section:after {
+    width: 200px;
+}
+.home-award-section:before,
+.home-award-section:after{    width: 200px;
+    height: 38px;}
+
+.about-section {
+    padding: 0 0 30px 0;
+}
+.about-slider {
+    width: 100%;
+}
+#owl-demo .item img,
+#owl-demo .item {
+        display: block;
+    margin: 0 auto;    width: 250px;
+    height: 250px;
+}
+
+.inner_banner.epc-banner .bannerText .subtitle {
+    font-size: 13px;
+    line-height: 12px;
+}
+
+#owl-demoTen .owl-nav .owl-prev {
+    left: 0;
+}
+#owl-demoTen .owl-nav .owl-next {   
+    right: 0;
+}
+
+.enquiry-section:before, .enquiry-section:after {
+    width: 60px;
+    height: 60px;
+}
+.enquiry-section:before{    left: 0;}
+.enquiry-section:after{    right: 0;}
+.csr-gal-section .gallry-image-slider .box .image-wrap img {
+    height: 190px;
+}
+.journey-cont-mob .box-content{    font-size: 14px;
+    line-height: 18px;width: 215px;
+    height: 215px;}
+#slick1 .slick-prev,
+#slick2 .slick-prev,
+#slick3 .slick-prev{left: 42%;}
+#slick1 .slick-next,
+#slick2 .slick-next,
+#slick3 .slick-next{right: 42%;}
+.client-wrapper {
+    padding-bottom: 110px;
+}
+.inner_banner.client-banner h1 {
+    font-size: 16px;
+    line-height: 20px;
+}
+
+ }
+ @media only screen and (min-width: 768px) { 
+/*Submenu On Hover*/
+.navbar-nav li:hover > ul.dropdown-menu {
+    display: block;
+}
+.dropdown-submenu {
+    position:relative;
+}
+.dropdown-submenu > .dropdown-menu {
+    top: 0;
+    left: 100%;
+    margin-top:-6px;
+}
+
+/* rotate caret on hover */
+.dropdown-menu > li > a:hover:after {
+    text-decoration: underline;
+    transform: rotate(-90deg);
+} 
+
+
+
+   
+ }

@@ -1,0 +1,27 @@
+
+.cssload-loader {
+	height: 300px;
+	line-height: 49px;
+	text-align: center;
+	position: relative;
+	left: 12%;
+	background: url(../images/final-loader.gif) no-repeat;
+}
+
+
+
+@media all and (max-width: 1100px) and (min-width: 220px) {
+	
+	.cssload-loader {
+	height: 300px;
+	line-height: 49px;
+	text-align: center;
+	position: relative;
+	left: 0%;
+	background: url(../images/final-loader.gif) no-repeat;
+	background-size:contain;
+	margin-top:50%;
+}
+
+
+}
