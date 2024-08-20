@@ -160,27 +160,27 @@ gsap.from(".card-ani", {
     }
 });
 
-gsap.from(".g-c", {
-    opacity: 0,
-    scale:0,
-    duration: 2,
-    scrollTrigger:{
-        trigger: ".g-c",
-        scroller: "body",
-        scrub: 2,
-    }
-});
+// gsap.from(".g-c", {
+//     opacity: 0,
+//     scale:0,
+//     duration: 2,
+//     scrollTrigger:{
+//         trigger: ".g-c",
+//         scroller: "body",
+//         scrub: 2,
+//     }
+// });
 
-gsap.from(".p-c", {
-    opacity: 0,
-    scale:0,
-    duration: 2,
-    scrollTrigger:{
-        trigger: ".p-c",
-        scroller: "body",
-        scrub: 2,
-    }
-});
+// gsap.from(".p-c", {
+//     opacity: 0,
+//     scale:0,
+//     duration: 2,
+//     scrollTrigger:{
+//         trigger: ".p-c",
+//         scroller: "body",
+//         scrub: 2,
+//     }
+// });
 
 // line mousemove
 string.addEventListener("mousemove", (event) => {
