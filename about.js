@@ -3,6 +3,27 @@ const scroll = new LocomotiveScroll({
     smooth: true
 });
 
+gsap.from(".sub-text p", {
+    opacity: 0,
+    scale:0,
+    duration: 2,
+    scrollTrigger:{
+        trigger: ".sub-text p",
+        scroller: "body",
+        scrub: 1,
+    }
+});
+
+gsap.from(".sub-text h3", {
+    opacity: 0,
+    scale:0,
+    duration: 2,
+    scrollTrigger:{
+        trigger: ".sub-text h3",
+        scroller: "body",
+        scrub: 1,
+    }
+});
 
 Shery.textAnimate(".sub-text h1", {
     style: 2,

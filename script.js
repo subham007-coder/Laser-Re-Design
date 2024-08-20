@@ -89,6 +89,7 @@ gsap.from(".containerr #img", {
     scrollTrigger:{
         trigger: ".containerr #img",
         scroller: "body",
+        scrub: 1,
     }
 });
 
@@ -99,6 +100,7 @@ gsap.from(".fst-info #img", {
     scrollTrigger:{
         trigger: ".fst-info #img",
         scroller: "body",
+        scrub: 1,
     }
 });
 
@@ -107,6 +109,7 @@ gsap.from(".scnd-info #img", {
     x: 400,
     duration: 1,
     scrollTrigger:{
+        scrub: 1,
         trigger: ".scnd-info #img",
         scroller: "body",
     }
@@ -120,6 +123,7 @@ gsap.from(".text-box", {
     scrollTrigger:{
         trigger: ".text-box",
         scroller: "body",
+        scrub: 2,
     }
 });
 
@@ -130,6 +134,7 @@ gsap.from(".about-text", {
     scrollTrigger:{
         trigger: ".about-text",
         scroller: "body",
+        scrub: 2,
     }
 });
 
@@ -140,6 +145,7 @@ gsap.from(".product-text", {
     scrollTrigger:{
         trigger: ".product-text",
         scroller: "body",
+        scrub: 2,
     }
 });
 
@@ -150,6 +156,7 @@ gsap.from(".card-ani", {
     scrollTrigger:{
         trigger: ".card-ani",
         scroller: "body",
+        scrub: 2,
     }
 });
 
@@ -160,6 +167,7 @@ gsap.from(".g-c", {
     scrollTrigger:{
         trigger: ".g-c",
         scroller: "body",
+        scrub: 2,
     }
 });
 
@@ -170,6 +178,7 @@ gsap.from(".p-c", {
     scrollTrigger:{
         trigger: ".p-c",
         scroller: "body",
+        scrub: 2,
     }
 });
 
@@ -177,16 +186,16 @@ gsap.from(".p-c", {
 string.addEventListener("mousemove", (event) => {
     path = `M 10 150 Q 335 ${event.y} 670 150`;
     gsap.to("svg path", {
-      attr: { d: path },
-      duration: 0.2,
-      ease: "power3.out",
+        attr: { d: path },
+        duration: 0.2,
+        ease: "power3.out",
     });
-  });
-  
+});
+
   string.addEventListener("mouseleave", (event) => {
     gsap.to("svg path", {
       attr: { d: finalPath },
       duration: 1.5,
       ease: "elastic.out(1,0.2)",
     });
-  });
+});
